@@ -2,7 +2,6 @@ config.bat
 node_modules
 
 # env files (added by remove-malware script)
-.env*
 !.env.example
 branch_structure.json
 temp_auto_push.bat
